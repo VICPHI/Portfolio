@@ -18,3 +18,42 @@ p {
     line-height: 1.6; /* Afstand mellem linjer */
     color: #555; /* Lysere grå farve */
 }
+
+
+/* Generel styling til navigationen */
+nav {
+    background-color: #f4f4f4;
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    width: 200px;
+}
+
+/* Styling til overskriften */
+nav h2 {
+    font-size: 18px;
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Styling til listen */
+nav ul {
+    list-style: none; /* Fjern standard bullet points */
+    padding: 0;
+}
+
+nav li {
+    margin-bottom: 10px;
+}
+
+/* Styling til links */
+nav a {
+    text-decoration: none; /* Fjern understregning */
+    color: #007BFF;
+    font-size: 16px;
+    transition: color 0.3s;
+}
+
+nav a:hover {
+    color: #0056b3; /* Mørkere blå ved hover */
+}
