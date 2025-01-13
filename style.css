@@ -1,0 +1,20 @@
+/* Styling til hele siden */
+body {
+    font-family: Arial, sans-serif; /* Skrifttype */
+    background-color: #f0f0f0; /* Lys grå baggrund */
+    color: #333; /* Mørkegrå tekstfarve */
+}
+
+/* Styling til overskrifter */
+h1 {
+    color: #ff5733; /* Orange tekst */
+    text-align: center; /* Centrér teksten */
+    font-size: 36px; /* Stor tekst */
+}
+
+/* Styling til paragraffer */
+p {
+    font-size: 18px; /* Skriftstørrelse */
+    line-height: 1.6; /* Afstand mellem linjer */
+    color: #555; /* Lysere grå farve */
+}
